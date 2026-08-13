@@ -1,0 +1,10 @@
+{
+  "name": "GameLecture.Framework.Sample",
+  "rootNamespace": "GameLecture.Framework.Samples",
+  "references": [
+    "GameLecture.Framework.Runtime",
+    "Unity.LevelPlay",
+    "Unity.TextMeshPro"
+  ],
+  "autoReferenced": true
+}
